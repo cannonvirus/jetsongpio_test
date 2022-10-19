@@ -1,4 +1,4 @@
-# Jetson Xavier GPOI Test
+# Jetson Xavier GPIO Test
 ## Compiler
 ```bash
 # gcc9.4 (c++17)
